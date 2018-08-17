@@ -74,6 +74,29 @@
 
 [Voting Portal by EOSPHERE](https://eosvoter.eosphere.io/)
 
+## EOS Wallets
+
+[EOSKey (Offline Key Generator)](https://eoskey.io/#/)
+
+[EOS Voter - Greymass (Desktop)](https://github.com/greymass/eos-voter)
+
+[EOS Lynx (Mobile - iOS, Android)](https://eoslynx.com/)
+
+[imToken (Mobile - iOS, Android)](https://token.im/download)
+
+[Infinito Wallet (Mobile - iOS, Android)](https://www.infinitowallet.io/)
+
+[Key Generator (Web)](https://nadejde.github.io/eos-token-sale/)
+
+[MEET.ONE (Mobile - iOS, Android)](https://meet.one/download/en)
+
+[Scattellet](http://www.scattellet.com/)
+
+[SimplEOS (Desktop)](https://eosrio.io/simpleos/)
+
+[Web - Login with Scatter)](https://get-scatter.com/)
+
+
 ## Explorer
 [Bloks](https://www.bloks.io/)
 
