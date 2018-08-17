@@ -25,3 +25,19 @@
 [Feeexplorer](https://eos.feexplorer.io/)
 
 [IQ Network](https://iqnetwork.io/)
+
+## EOS Games
+[EOS Bingo](https://eosbingo.net/)
+
+[EOS Button](https://eosbutton.io/ebt-game)
+
+[EOS Knights (Beta)](http://eosknights.io/)
+
+[King Of EOS](https://kingofeos.com/)
+
+[MonsterEOS](http://monstereos.io/)
+
+[Space Invaders](https://eosauthority.com/spaceMainnet/)
+
+[Wizards.one](https://game.wizards.one/#/)
+
