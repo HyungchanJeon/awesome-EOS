@@ -7,6 +7,25 @@
 
 [Airdrops For EOS](https://airdropsforeos.com/)
 
+## EOS BPS
+[BP Details](https://www.alohaeos.com/vote)
+
+[BP List & Info](https://bp.eosgo.io/)
+
+[BP Monitor (By Cryptolions)](http://eosnetworkmonitor.io/)
+
+[BP Monitor (By EOSQL)](http://eosvoters.com/)
+
+[BP Map (By Cypherglass)](https://glass.cypherglass.com/)
+
+[BP Ratings](https://www.eoswire.org/bpcompliance)
+
+[EOS system upgrade/Changes BP Approvals](https://eosauthority.com/approval/)
+
+[EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy)
+
+[Producer Scorecard](https://validate.eosnation.io/producers/)
+
 ## EOS BP Tools
 [BP Position Notifier](https://github.com/CryptoLions/BP-Position-Telegram-Notifier)
 [Claimbot](https://github.com/CryptoLions/EOS-Claim-Bot)
