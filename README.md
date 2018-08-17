@@ -28,7 +28,9 @@
 
 ## EOS BP Tools
 [BP Position Notifier](https://github.com/CryptoLions/BP-Position-Telegram-Notifier)
+
 [Claimbot](https://github.com/CryptoLions/EOS-Claim-Bot)
+
 [Node Management Scripts](https://github.com/CryptoLions/EOS-MainNet)
 
 ## EOS Dapps
