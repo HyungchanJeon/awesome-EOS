@@ -2,8 +2,15 @@
 
 ## Airdrops
 [EOS Drops](https://www.eosdrops.io/)
+
 [EOSdocs Airdrops](https://www.eosdocs.io/resources/airdrops/)
+
 [Airdrops For EOS](https://airdropsforeos.com/)
+
+## EOS BP Tools
+[BP Position Notifier](https://github.com/CryptoLions/BP-Position-Telegram-Notifier)
+[Claimbot](https://github.com/CryptoLions/EOS-Claim-Bot)
+[Node Management Scripts](https://github.com/CryptoLions/EOS-MainNet)
 
 ## EOS Dapps
 [Buy EOS RAM](https://buyeosram.io/)
@@ -32,6 +39,21 @@
 [Space Invaders](https://eosauthority.com/spaceMainnet/)
 
 [Wizards.one](https://game.wizards.one/#/)
+
+## EOS Vote
+[EOS Beijing](EOS beijing)
+
+[EOS BP Voting](https://atticlab.net/vote/)
+
+[EOS Portal](http://www.eosportal.io/)
+
+[Voting Portal by LibertyBlock](http://vote.libertyblock.io/)
+
+[Voting Portal by EOSSEOUL](https://portal.eoseoul.io/)
+
+[Voting Portal by LiquidEOS](http://vote.liquideos.com/)
+
+[Voting Portal by EOSPHERE](https://eosvoter.eosphere.io/)
 
 ## Explorer
 [Bloks](https://www.bloks.io/)
