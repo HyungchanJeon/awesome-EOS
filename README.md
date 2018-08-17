@@ -41,7 +41,7 @@
 [Wizards.one](https://game.wizards.one/#/)
 
 ## EOS Vote
-[EOS Beijing](EOS beijing)
+[EOS Beijing](https://www.eosbeijing.one/data/#/bpByEOS)
 
 [EOS BP Voting](https://atticlab.net/vote/)
 
