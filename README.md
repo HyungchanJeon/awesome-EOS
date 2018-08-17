@@ -60,13 +60,17 @@
 
 [Decent Twitter](https://decentwitter.com/)
 
-[DEXEOS](https://dexeos.io/)
-
 [EOS Forum](https://eos-forum.org/#/)
 
 [Feeexplorer](https://eos.feexplorer.io/)
 
 [IQ Network](https://iqnetwork.io/)
+
+## EOS DEX (Decentralized Exchange)
+[Chaince](https://chaince.com/)
+[DEXEOS](https://dexeos.io/)
+[EOSDAQ](https://eosdaq.com/)
+[NEWDEX](https://newdex.io/)
 
 ## EOS Games
 [EOS Bingo](https://eosbingo.net/)
