@@ -1,4 +1,5 @@
 # awesome-EOS
+![EOS Trademark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-LxdxBwKXwXELU9Y2CPATxZg_uTE6t0JoYzdxMSd3XgbrHjP)
 
 ## Airdrops
 [EOS Drops](https://www.eosdrops.io/)
