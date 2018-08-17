@@ -124,7 +124,7 @@
 
 * [EOS Knights (Beta)](http://eosknights.io/)
 
-[King Of EOS](https://kingofeos.com/)
+* [King Of EOS](https://kingofeos.com/)
 
 * [MonsterEOS](http://monstereos.io/)
 
@@ -162,7 +162,7 @@
 
 * [EOS Lynx](https://eoslynx.com/)
 
-* [imToken)](https://token.im/download)
+* [imToken](https://token.im/download)
 
 * [Infinito Wallet](https://www.infinitowallet.io/)
 
