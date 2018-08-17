@@ -55,6 +55,20 @@
 
 [ZEOS (Paid Account Creation)](https://www.zeos.co/)
 
+## EOS Community
+[EOS Acknowledgments](http://eosacknowledgments.io/)
+
+[EOS Forums](https://eosforum.org/)
+
+[EOS GO](https://forums.eosgo.io/)
+
+[EOS Subreddit](https://www.reddit.com/r/eos/)
+
+[EOS Talk](https://eostalk.io/forums)
+
+[KOREOS](http://koreos.io/KOREOS)
+
+
 ## EOS Dapps
 [Buy EOS RAM](https://buyeosram.io/)
 
@@ -68,8 +82,13 @@
 
 ## EOS DEX (Decentralized Exchange)
 [Chaince](https://chaince.com/)
+
 [DEXEOS](https://dexeos.io/)
+
 [EOSDAQ](https://eosdaq.com/)
+
+[EOSFINEX](https://eosfinex.com/)
+
 [NEWDEX](https://newdex.io/)
 
 ## EOS Games
