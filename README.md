@@ -1,7 +1,21 @@
 # awesome-EOS
 ![EOS Trademark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-LxdxBwKXwXELU9Y2CPATxZg_uTE6t0JoYzdxMSd3XgbrHjP)
 
-## Airdrops
+## EOS Official Site
+[EOSIO](https://eos.io/)
+
+## EOS Official channel on SNS
+[Github](https://github.com/EOSIO)
+
+[Medium](https://medium.com/eosio)
+
+[Telegram](https://t.me/EOSproject)
+
+[Twitter](https://twitter.com/EOS_io)
+
+[Youtube](https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg)
+
+## EOS Airdrops
 [EOS Drops](https://www.eosdrops.io/)
 
 [EOSdocs Airdrops](https://www.eosdocs.io/resources/airdrops/)
@@ -105,6 +119,11 @@
 [Space Invaders](https://eosauthority.com/spaceMainnet/)
 
 [Wizards.one](https://game.wizards.one/#/)
+
+## EOS Project Directories
+[EOS Apps](https://eosapps.net/)
+[EOS Index](https://eosindex.io/posts)
+[EOS Projects](https://eosprojects.org/)
 
 ## EOS Vote
 [EOS Beijing](https://www.eosbeijing.one/data/#/bpByEOS)
