@@ -1,6 +1,6 @@
 # awesome-EOS
 
-# Explorer
+## Explorer
 [Bloks](https://www.bloks.io/)
 
 [EOS Flare](https://eosflare.io/)
@@ -13,7 +13,7 @@
 
 [MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
 
-# EOS Dapps
+## EOS Dapps
 [Buy EOS RAM](https://buyeosram.io/)
 
 [Decent Twitter](https://decentwitter.com/)
