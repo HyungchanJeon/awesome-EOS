@@ -142,25 +142,25 @@
 
 ## EOS Wallets
 
-[EOSKey (Offline Key Generator)](https://eoskey.io/#/)
+[EOSKey](https://eoskey.io/#/)
 
-[EOS Voter - Greymass (Desktop)](https://github.com/greymass/eos-voter)
+[Greymass](https://github.com/greymass/eos-voter)
 
-[EOS Lynx (Mobile - iOS, Android)](https://eoslynx.com/)
+[EOS Lynx](https://eoslynx.com/)
 
-[imToken (Mobile - iOS, Android)](https://token.im/download)
+[imToken)](https://token.im/download)
 
-[Infinito Wallet (Mobile - iOS, Android)](https://www.infinitowallet.io/)
+[Infinito Wallet](https://www.infinitowallet.io/)
 
-[Key Generator (Web)](https://nadejde.github.io/eos-token-sale/)
+[Key Generator](https://nadejde.github.io/eos-token-sale/)
 
-[MEET.ONE (Mobile - iOS, Android)](https://meet.one/download/en)
+[MEET.ONE](https://meet.one/download/en)
 
 [Scattellet](http://www.scattellet.com/)
 
-[SimplEOS (Desktop)](https://eosrio.io/simpleos/)
+[SimplEOS](https://eosrio.io/simpleos/)
 
-[Web - Login with Scatter)](https://get-scatter.com/)
+[Scatter Web](https://get-scatter.com/)
 
 
 ## Explorer
