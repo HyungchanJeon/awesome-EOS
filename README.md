@@ -1,5 +1,5 @@
 # awesome-EOS
 
 #Explorer
-Bloks (https://www.bloks.io/)
+[Bloks](https://www.bloks.io/)
 
