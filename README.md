@@ -33,6 +33,27 @@
 
 [Node Management Scripts](https://github.com/CryptoLions/EOS-MainNet)
 
+## EOS Account Management
+[EOS Account Creator (Paid Account Creation)](https://eos-account-creator.com/)
+
+[EOS Authority (Account Alerts, ETH to EOS account lookup)](https://eosauthority.com/)
+
+[EOS Cannon (Account Tools, Vote, Staking, Proxy, RAM)](https://tool.eoscannon.io/#/)
+
+[EOStart (Paid Account Creation)](https://www.eostart.com/)
+
+[EOS Toolkit (Staking, Transfer, Vote, RAM)](https://eostoolkit.io/home)
+
+[MOBEOS (Mobile Toolkit)](https://play.google.com/store/apps/details?id=net.takafuly.mobeos)
+
+[My EOS Kit (Account Tools, Voting, Monitor, Explorer)](https://www.myeoskit.com/)
+
+[Namevault (Paid Account Creation)](https://namevault.co/)
+
+[Signupeoseos (Account Creation by sending EOS)](https://medium.com/coinmonks/create-your-own-eos-account-easily-using-the-non-service-fee-dapp-signupeoseos-b15c5347f2fc)
+
+[ZEOS (Paid Account Creation)](https://www.zeos.co/)
+
 ## EOS Dapps
 [Buy EOS RAM](https://buyeosram.io/)
 
