@@ -69,6 +69,19 @@
 
 * [ZEOS (Paid Account Creation)](https://www.zeos.co/)
 
+## EOS Block Explorer
+* [Bloks](https://www.bloks.io/)
+
+* [EOS Flare](https://eosflare.io/)
+
+* [EOS Park](https://eospark.com/)
+
+* [EOS Query](https://eosquery.com/)
+
+* [EOS Tracker](https://eostracker.io/)
+
+* [MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
+
 ## EOS Community
 * [EOS Acknowledgments](http://eosacknowledgments.io/)
 
@@ -81,7 +94,6 @@
 * [EOS Talk](https://eostalk.io/forums)
 
 * [KOREOS](http://koreos.io/KOREOS)
-
 
 ## EOS Dapps
 * [Buy EOS RAM](https://buyeosram.io/)
@@ -163,17 +175,3 @@
 * [SimplEOS](https://eosrio.io/simpleos/)
 
 * [Scatter Web](https://get-scatter.com/)
-
-
-## Explorer
-* [Bloks](https://www.bloks.io/)
-
-* [EOS Flare](https://eosflare.io/)
-
-* [EOS Park](https://eospark.com/)
-
-* [EOS Query](https://eosquery.com/)
-
-* [EOS Tracker](https://eostracker.io/)
-
-* [MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
