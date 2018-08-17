@@ -1,17 +1,9 @@
 # awesome-EOS
 
-## Explorer
-[Bloks](https://www.bloks.io/)
-
-[EOS Flare](https://eosflare.io/)
-
-[EOS Park](https://eospark.com/)
-
-[EOS Query](https://eosquery.com/)
-
-[EOS Tracker](https://eostracker.io/)
-
-[MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
+## Airdrops
+[EOS Drops](https://www.eosdrops.io/)
+[EOSdocs Airdrops](https://www.eosdocs.io/resources/airdrops/)
+[Airdrops For EOS](https://airdropsforeos.com/)
 
 ## EOS Dapps
 [Buy EOS RAM](https://buyeosram.io/)
@@ -40,4 +32,19 @@
 [Space Invaders](https://eosauthority.com/spaceMainnet/)
 
 [Wizards.one](https://game.wizards.one/#/)
+
+## Explorer
+[Bloks](https://www.bloks.io/)
+
+[EOS Flare](https://eosflare.io/)
+
+[EOS Park](https://eospark.com/)
+
+[EOS Query](https://eosquery.com/)
+
+[EOS Tracker](https://eostracker.io/)
+
+[MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
+
+
 
