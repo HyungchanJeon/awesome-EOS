@@ -2,179 +2,178 @@
 ![EOS Trademark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-LxdxBwKXwXELU9Y2CPATxZg_uTE6t0JoYzdxMSd3XgbrHjP)
 
 ## EOS Official Site
-[EOSIO](https://eos.io/)
+* [EOSIO](https://eos.io/)
 
 ## EOS Official channel on SNS
-[Github](https://github.com/EOSIO)
+* [Github](https://github.com/EOSIO)
 
-[Medium](https://medium.com/eosio)
+* [Medium](https://medium.com/eosio)
 
-[Telegram](https://t.me/EOSproject)
+* [Telegram](https://t.me/EOSproject)
 
-[Twitter](https://twitter.com/EOS_io)
+* [Twitter](https://twitter.com/EOS_io)
 
-[Youtube](https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg)
+* [Youtube](https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg)
 
 ## EOS Airdrops
-[EOS Drops](https://www.eosdrops.io/)
+* [EOS Drops](https://www.eosdrops.io/)
 
-[EOSdocs Airdrops](https://www.eosdocs.io/resources/airdrops/)
+* [EOSdocs Airdrops](https://www.eosdocs.io/resources/airdrops/)
 
-[Airdrops For EOS](https://airdropsforeos.com/)
+* [Airdrops For EOS](https://airdropsforeos.com/)
 
 ## EOS BPS
-[BP Details](https://www.alohaeos.com/vote)
+* [BP Details](https://www.alohaeos.com/vote)
 
-[BP List & Info](https://bp.eosgo.io/)
+* [BP List & Info](https://bp.eosgo.io/)
 
-[BP Monitor (By Cryptolions)](http://eosnetworkmonitor.io/)
+* [Cryptolions BP Monitor](http://eosnetworkmonitor.io/)
 
-[BP Monitor (By EOSQL)](http://eosvoters.com/)
+* [EOSQL BP Monitor](http://eosvoters.com/)
 
-[BP Map (By Cypherglass)](https://glass.cypherglass.com/)
+* [Cypherglass BP Map](https://glass.cypherglass.com/)
 
-[BP Ratings](https://www.eoswire.org/bpcompliance)
+* [BP Ratings](https://www.eoswire.org/bpcompliance)
 
-[EOS system upgrade/Changes BP Approvals](https://eosauthority.com/approval/)
+* [EOS system upgrade/Changes BP Approvals](https://eosauthority.com/approval/)
 
-[EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy)
+* [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy)
 
-[Producer Scorecard](https://validate.eosnation.io/producers/)
+* [Producer Scorecard](https://validate.eosnation.io/producers/)
 
 ## EOS BP Tools
-[BP Position Notifier](https://github.com/CryptoLions/BP-Position-Telegram-Notifier)
+* [BP Position Notifier](https://github.com/CryptoLions/BP-Position-Telegram-Notifier)
 
-[Claimbot](https://github.com/CryptoLions/EOS-Claim-Bot)
+* [Claimbot](https://github.com/CryptoLions/EOS-Claim-Bot)
 
-[Node Management Scripts](https://github.com/CryptoLions/EOS-MainNet)
+* [Node Management Scripts](https://github.com/CryptoLions/EOS-MainNet)
 
 ## EOS Account Management
-[EOS Account Creator (Paid Account Creation)](https://eos-account-creator.com/)
+* [EOS Account Creator](https://eos-account-creator.com/)
 
-[EOS Authority (Account Alerts, ETH to EOS account lookup)](https://eosauthority.com/)
+* [EOS Authority](https://eosauthority.com/)
 
-[EOS Cannon (Account Tools, Vote, Staking, Proxy, RAM)](https://tool.eoscannon.io/#/)
+* [EOS Cannon](https://tool.eoscannon.io/#/)
 
-[EOStart (Paid Account Creation)](https://www.eostart.com/)
+* [EOStart](https://www.eostart.com/)
 
-[EOS Toolkit (Staking, Transfer, Vote, RAM)](https://eostoolkit.io/home)
+* [EOS Toolkit](https://eostoolkit.io/home)
 
-[MOBEOS (Mobile Toolkit)](https://play.google.com/store/apps/details?id=net.takafuly.mobeos)
+* [MOBEOS](https://play.google.com/store/apps/details?id=net.takafuly.mobeos)
 
-[My EOS Kit (Account Tools, Voting, Monitor, Explorer)](https://www.myeoskit.com/)
+* [My EOS Kit](https://www.myeoskit.com/)
 
-[Namevault (Paid Account Creation)](https://namevault.co/)
+* [Namevault](https://namevault.co/)
 
-[Signupeoseos (Account Creation by sending EOS)](https://medium.com/coinmonks/create-your-own-eos-account-easily-using-the-non-service-fee-dapp-signupeoseos-b15c5347f2fc)
+* [Signupeoseos](https://medium.com/coinmonks/create-your-own-eos-account-easily-using-the-non-service-fee-dapp-signupeoseos-b15c5347f2fc)
 
-[ZEOS (Paid Account Creation)](https://www.zeos.co/)
+* [ZEOS (Paid Account Creation)](https://www.zeos.co/)
 
 ## EOS Community
-[EOS Acknowledgments](http://eosacknowledgments.io/)
+* [EOS Acknowledgments](http://eosacknowledgments.io/)
 
-[EOS Forums](https://eosforum.org/)
+* [EOS Forums](https://eosforum.org/)
 
-[EOS GO](https://forums.eosgo.io/)
+* [EOS GO](https://forums.eosgo.io/)
 
-[EOS Subreddit](https://www.reddit.com/r/eos/)
+* [EOS Subreddit](https://www.reddit.com/r/eos/)
 
-[EOS Talk](https://eostalk.io/forums)
+* [EOS Talk](https://eostalk.io/forums)
 
-[KOREOS](http://koreos.io/KOREOS)
+* [KOREOS](http://koreos.io/KOREOS)
 
 
 ## EOS Dapps
-[Buy EOS RAM](https://buyeosram.io/)
+* [Buy EOS RAM](https://buyeosram.io/)
 
-[Decent Twitter](https://decentwitter.com/)
+* [Decent Twitter](https://decentwitter.com/)
 
-[EOS Forum](https://eos-forum.org/#/)
+* [EOS Forum](https://eos-forum.org/#/)
 
-[Feeexplorer](https://eos.feexplorer.io/)
+* [Feeexplorer](https://eos.feexplorer.io/)
 
-[IQ Network](https://iqnetwork.io/)
+* [IQ Network](https://iqnetwork.io/)
 
 ## EOS DEX (Decentralized Exchange)
-[Chaince](https://chaince.com/)
+* [Chaince](https://chaince.com/)
 
-[DEXEOS](https://dexeos.io/)
+* [DEXEOS](https://dexeos.io/)
 
-[EOSDAQ](https://eosdaq.com/)
+* [EOSDAQ](https://eosdaq.com/)
 
-[EOSFINEX](https://eosfinex.com/)
+* [EOSFINEX](https://eosfinex.com/)
 
-[NEWDEX](https://newdex.io/)
+* [NEWDEX](https://newdex.io/)
 
 ## EOS Games
-[EOS Bingo](https://eosbingo.net/)
+* [EOS Bingo](https://eosbingo.net/)
 
-[EOS Button](https://eosbutton.io/ebt-game)
+* [EOS Button](https://eosbutton.io/ebt-game)
 
-[EOS Knights (Beta)](http://eosknights.io/)
+* [EOS Knights (Beta)](http://eosknights.io/)
 
 [King Of EOS](https://kingofeos.com/)
 
-[MonsterEOS](http://monstereos.io/)
+* [MonsterEOS](http://monstereos.io/)
 
-[Space Invaders](https://eosauthority.com/spaceMainnet/)
+* [Space Invaders](https://eosauthority.com/spaceMainnet/)
 
-[Wizards.one](https://game.wizards.one/#/)
+* [Wizards.one](https://game.wizards.one/#/)
 
 ## EOS Project Directories
-[EOS Apps](https://eosapps.net/)
-[EOS Index](https://eosindex.io/posts)
-[EOS Projects](https://eosprojects.org/)
+* [EOS Apps](https://eosapps.net/)
+
+* [EOS Index](https://eosindex.io/posts)
+
+* [EOS Projects](https://eosprojects.org/)
 
 ## EOS Vote
-[EOS Beijing](https://www.eosbeijing.one/data/#/bpByEOS)
+* [EOS Beijing](https://www.eosbeijing.one/data/#/bpByEOS)
 
-[EOS BP Voting](https://atticlab.net/vote/)
+* [EOS BP Voting](https://atticlab.net/vote/)
 
-[EOS Portal](http://www.eosportal.io/)
+* [EOS Portal](http://www.eosportal.io/)
 
-[Voting Portal by LibertyBlock](http://vote.libertyblock.io/)
+* [LibertyBlock Voting Portal](http://vote.libertyblock.io/)
 
-[Voting Portal by EOSSEOUL](https://portal.eoseoul.io/)
+* [EOSSEOUL Voting Portal](https://portal.eoseoul.io/)
 
-[Voting Portal by LiquidEOS](http://vote.liquideos.com/)
+* [LiquidEOS Voting Portal](http://vote.liquideos.com/)
 
-[Voting Portal by EOSPHERE](https://eosvoter.eosphere.io/)
+* [EOSPHERE Voting Portal](https://eosvoter.eosphere.io/)
 
 ## EOS Wallets
 
-[EOSKey](https://eoskey.io/#/)
+* [EOSKey](https://eoskey.io/#/)
 
-[Greymass](https://github.com/greymass/eos-voter)
+* [Greymass](https://github.com/greymass/eos-voter)
 
-[EOS Lynx](https://eoslynx.com/)
+* [EOS Lynx](https://eoslynx.com/)
 
-[imToken)](https://token.im/download)
+* [imToken)](https://token.im/download)
 
-[Infinito Wallet](https://www.infinitowallet.io/)
+* [Infinito Wallet](https://www.infinitowallet.io/)
 
-[Key Generator](https://nadejde.github.io/eos-token-sale/)
+* [Key Generator](https://nadejde.github.io/eos-token-sale/)
 
-[MEET.ONE](https://meet.one/download/en)
+* [MEET.ONE](https://meet.one/download/en)
 
-[Scattellet](http://www.scattellet.com/)
+* [Scattellet](http://www.scattellet.com/)
 
-[SimplEOS](https://eosrio.io/simpleos/)
+* [SimplEOS](https://eosrio.io/simpleos/)
 
-[Scatter Web](https://get-scatter.com/)
+* [Scatter Web](https://get-scatter.com/)
 
 
 ## Explorer
-[Bloks](https://www.bloks.io/)
+* [Bloks](https://www.bloks.io/)
 
-[EOS Flare](https://eosflare.io/)
+* [EOS Flare](https://eosflare.io/)
 
-[EOS Park](https://eospark.com/)
+* [EOS Park](https://eospark.com/)
 
-[EOS Query](https://eosquery.com/)
+* [EOS Query](https://eosquery.com/)
 
-[EOS Tracker](https://eostracker.io/)
+* [EOS Tracker](https://eostracker.io/)
 
-[MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
-
-
-
+* [MyEOSKit Explorer](https://www.myeoskit.com/?#/tx)
